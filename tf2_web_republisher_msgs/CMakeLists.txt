@@ -8,7 +8,6 @@ set(THIS_PACKAGE_INCLUDE_DEPENDS
     geometry_msgs
     rosidl_default_generators
     std_msgs
-    tf2_eigen
     tf2_geometry_msgs
     tf2_msgs)
 
