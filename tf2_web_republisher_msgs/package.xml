@@ -13,9 +13,7 @@
   <depend>rclcpp_action</depend>
   <depend>actionlib_msgs</depend>
   <depend>geometry_msgs</depend>
-  <depend>tf2_ros</depend>
-  <depend>tf2</depend>
-  <depend>tf2_eigen</depend>
+  <depend>geometry2</depend>
 
   <exec_depend>rosidl_default_runtime</exec_depend>
 
